@@ -1,1 +1,1 @@
-# market-pulse
+# alpha-pulse
