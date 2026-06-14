@@ -1,0 +1,49 @@
+[{
+  "name": "ADANI ENTERPRISES LIMITED",
+  "instrument_key": "NSE_EQ|INE423A01024",
+  "trading_symbol": "ADANIENT"
+}, {
+  "name": "ADITYA BIRLA CAPITAL LTD.",
+  "instrument_key": "NSE_EQ|INE674K01013",
+  "trading_symbol": "ABCAPITAL"
+}, {
+  "name": "AXIS BANK LIMITED",
+  "instrument_key": "NSE_EQ|INE238A01034",
+  "trading_symbol": "AXISBANK"
+}, {
+  "name": "ETERNAL LIMITED",
+  "instrument_key": "NSE_EQ|INE758T01015",
+  "trading_symbol": "ETERNAL"
+}, {
+  "name": "HCL INFOSYSTEMS LTD",
+  "instrument_key": "NSE_EQ|INE236A01020",
+  "trading_symbol": "HCL-INSYS"
+}, {
+  "name": "HDFC BANK LTD",
+  "instrument_key": "NSE_EQ|INE040A01034",
+  "trading_symbol": "HDFCBANK"
+}, {
+  "name": "INFOSYS LIMITED",
+  "instrument_key": "NSE_EQ|INE009A01021",
+  "trading_symbol": "INFY"
+}, {
+  "name": "ITC LTD",
+  "instrument_key": "NSE_EQ|INE154A01025",
+  "trading_symbol": "ITC"
+}, {
+  "name": "LARSEN \u0026 TOUBRO LTD.",
+  "instrument_key": "NSE_EQ|INE018A01030",
+  "trading_symbol": "LT"
+}, {
+  "name": "NTPC LTD",
+  "instrument_key": "NSE_EQ|INE733E01010",
+  "trading_symbol": "NTPC"
+}, {
+  "name": "RELIANCE INDUSTRIES LTD",
+  "instrument_key": "NSE_EQ|INE002A01018",
+  "trading_symbol": "RELIANCE"
+}, {
+  "name": "WIPRO LTD",
+  "instrument_key": "NSE_EQ|INE075A01022",
+  "trading_symbol": "WIPRO"
+}]

@@ -1,0 +1,7 @@
+requests
+pydantic
+python-dotenv
+newsapi-python
+transformers
+torch
+sentencepiece
